@@ -158,8 +158,6 @@ Working through problems across:
 
 ## 📊 GitHub
 
-## 📊 GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-x0&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-x0&layout=compact&hide_border=true)
