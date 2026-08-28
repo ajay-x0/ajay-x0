@@ -158,10 +158,11 @@ Working through problems across:
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-x0\&show_icons=true\&hide_border=true\&count_private=true\&rank_icon=github)
+## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-x0\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-x0&show_icons=true&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-x0&layout=compact&hide_border=true)
 ---
 
 ## 📫 Let's Connect
@@ -172,7 +173,7 @@ I'm always interested in **backend engineering, cloud, AI/LLM systems, data engi
   <a href="https://github.com/ajay-x0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ajay-raghuwanshi-79770724b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
