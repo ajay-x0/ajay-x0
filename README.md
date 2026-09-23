@@ -75,35 +75,6 @@ The payment flow uses a **durable saga** for coordination, while PostgreSQL tran
 
 → **[View Project](https://github.com/ajay-x0/distributed-banking-ledger)**
 
-### 🏠 House Price Predictor
-
-**Python · scikit-learn · Pandas · Streamlit · Joblib**
-
-A machine learning project that predicts house prices from **synthetic housing data**. It compares **Linear Regression and Random Forest** using separate training, validation, and test sets, then saves the selected preprocessing and model pipeline for reuse.
-
-A **Streamlit interface** lets users enter property details and generate predictions in the browser. Results are a demonstration of the modeling workflow, not estimates validated against real property sales.
-
-**Focus:** Regression · Data Preparation · Model Evaluation · Reusable Pipelines · Interactive ML Apps
-
-### 💬 Full-Stack Real-Time Chat Application
-
-**Java 17 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Vite**
-
-A full-stack chat application with a **Spring Boot backend and React frontend**, supporting user registration, login, and real-time messaging. REST APIs and **Spring Security with JWT** handle authenticated requests; **Spring Data JPA and MySQL** store application data.
-
-**Focus:** Full-Stack Development · REST APIs · Authentication · WebSockets · Database Design · React
-
-→ **[View Project](https://github.com/ajay-x0/blink-backend)**
-
-### 🤖 Adaptive RAG — Agentic AI Chatbot
-
-**Python · FastAPI · LangGraph · Qdrant · MongoDB · OpenAI**
-
-A retrieval-augmented chatbot that routes queries between **document retrieval, general knowledge, and web search** workflows. It uses **LangGraph** for orchestration, **Qdrant** for vector search, **MongoDB** for session storage, and **FastAPI** to expose the backend.
-
-**Focus:** Agentic AI · RAG · LLM Applications · Vector Search · API Development
-
-→ **[View Project](https://github.com/ajay-x0/adaptive-rag-agent)**
 
 ### 🥗 Digi-Diet — IoT Nutrition Tracking System
 
@@ -115,6 +86,40 @@ An IoT nutrition tracking prototype that sends food information through **AWS Io
 
 → **[View Project](https://github.com/ajay-x0/digi-diet)**
 
+### 💬 Full-Stack Real-Time Chat Application
+
+**Java 17 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Vite**
+
+A full-stack chat application with a **Spring Boot backend and React frontend**, supporting user registration, login, and real-time messaging. REST APIs and **Spring Security with JWT** handle authenticated requests; **Spring Data JPA and MySQL** store application data.
+
+**Focus:** Full-Stack Development · REST APIs · Authentication · WebSockets · Database Design · React
+
+→ **[View Project](https://github.com/ajay-x0/blink-backend)**
+
+### 🏠 House Price Predictor
+
+**Python · scikit-learn · Pandas · Streamlit · Joblib**
+
+A machine learning project that predicts house prices from **synthetic housing data**. It compares **Linear Regression and Random Forest** using separate training, validation, and test sets, then saves the selected preprocessing and model pipeline for reuse.
+
+A **Streamlit interface** lets users enter property details and generate predictions in the browser. Results are a demonstration of the modeling workflow, not estimates validated against real property sales.
+
+**Focus:** Regression · Data Preparation · Model Evaluation · Reusable Pipelines · Interactive ML Apps
+
+
+
+### 🤖 Adaptive RAG — Agentic AI Chatbot
+
+**Python · FastAPI · LangGraph · Qdrant · MongoDB · OpenAI**
+
+A retrieval-augmented chatbot that routes queries between **document retrieval, general knowledge, and web search** workflows. It uses **LangGraph** for orchestration, **Qdrant** for vector search, **MongoDB** for session storage, and **FastAPI** to expose the backend.
+
+**Focus:** Agentic AI · RAG · LLM Applications · Vector Search · API Development
+
+→ **[View Project](https://github.com/ajay-x0/adaptive-rag-agent)**
+
+
+
 ---
 
 ## 💼 Experience
@@ -123,11 +128,14 @@ An IoT nutrition tracking prototype that sends food information through **AWS Io
 
 **Pune, India · January 2025 – Present**
 
-**Embedded Systems Support · Python Automation · Debugging · Agile/Scrum**
+**Java · Spring Boot · REST APIs · SQL · Python · React.js · AWS · Agile/Scrum**
 
-* Support an embedded systems project, investigating issues, analyzing logs, and collaborating with developers and QA during weekly sprint cycles.
-* Co-developed a **Python/OpenPyXL automation tool** that converts Excel specifications into CAPL scripts, reducing a repetitive **5–6 hour manual process to minutes** for applicable workflows.
-* Work with a **5+ member team** on issue resolution, testing, documentation, and delivery.
+* Collaborate with a **5+ member distributed Agile team** and stakeholders to define API contracts, implement features, and deliver changes across weekly sprint cycles.
+* Develop and enhance **Java/Spring Boot backend services and REST APIs**, contributing to both new functionality and improvements to existing enterprise applications.
+* Optimized **Java service-layer processing and SQL queries**, including indexing improvements, achieving up to **12.5% reduction in processing time** in development and test environments.
+* Improved database query performance and indexing strategies, resulting in approximately **7% faster response times** during development/testing and contributing to more efficient backend operations.
+* Co-developed and enhanced a **Python-based automation framework using OpenPyXL** that converts Excel specifications into CAPL scripts, reducing a repetitive **5–6 hour manual process to minutes** for applicable workflows.
+* Worked within established **coding, QA, version-control, and Agile practices**, collaborating with developers and stakeholders throughout the development lifecycle.
 
 ---
 
