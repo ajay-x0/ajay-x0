@@ -106,7 +106,7 @@ A **Streamlit interface** lets users enter property details and generate predict
 
 **Focus:** Regression · Data Preparation · Model Evaluation · Reusable Pipelines · Interactive ML Apps
 
-
+→ **[View Project](https://github.com/ajay-x0/house-price-predictor)**
 
 ### 🤖 Adaptive RAG — Agentic AI Chatbot
 
