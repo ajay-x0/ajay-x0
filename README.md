@@ -135,6 +135,8 @@ My day-to-day responsibilities involve troubleshooting application issues, analy
 I also contribute to Python-based automation solutions, including tools that transform Excel specifications into CAPL scripts, helping reduce manual effort and improve operational efficiency.
 
 As part of an Agile team, I collaborate with developers, QA engineers, and stakeholders to understand requirements, resolve technical challenges, validate changes, and ensure smooth application delivery. My role provides hands-on experience in software development, production support, automation, and working with enterprise systems.
+
+
 ---
 
 ## 🏆 Certifications
