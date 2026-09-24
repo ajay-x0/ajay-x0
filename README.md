@@ -126,17 +126,15 @@ A retrieval-augmented chatbot that routes queries between **document retrieval, 
 
 ### Assistant System Engineer — Tata Consultancy Services (TCS)
 
-**Pune, India · January 2025 – Present**
+**Pune, India | January 2025 – Present**
 
-**Java · Spring Boot · REST APIs · SQL · Python · React.js · AWS · Agile/Scrum**
+I work as an Assistant System Engineer at Tata Consultancy Services (TCS), where I collaborate with cross-functional teams to support application development, maintain existing systems, and deliver reliable technical solutions.
 
-* Collaborate with a **5+ member distributed Agile team** and stakeholders to define API contracts, implement features, and deliver changes across weekly sprint cycles.
-* Develop and enhance **Java/Spring Boot backend services and REST APIs**, contributing to both new functionality and improvements to existing enterprise applications.
-* Optimized **Java service-layer processing and SQL queries**, including indexing improvements, achieving up to **12.5% reduction in processing time** in development and test environments.
-* Improved database query performance and indexing strategies, resulting in approximately **7% faster response times** during development/testing and contributing to more efficient backend operations.
-* Co-developed and enhanced a **Python-based automation framework using OpenPyXL** that converts Excel specifications into CAPL scripts, reducing a repetitive **5–6 hour manual process to minutes** for applicable workflows.
-* Worked within established **coding, QA, version-control, and Agile practices**, collaborating with developers and stakeholders throughout the development lifecycle.
+My day-to-day responsibilities involve troubleshooting application issues, analyzing logs, debugging code, implementing enhancements, and supporting backend services. I work with Java, Python, SQL, and related technologies to improve application functionality, automate repetitive tasks, and streamline development workflows.
 
+I also contribute to Python-based automation solutions, including tools that transform Excel specifications into CAPL scripts, helping reduce manual effort and improve operational efficiency.
+
+As part of an Agile team, I collaborate with developers, QA engineers, and stakeholders to understand requirements, resolve technical challenges, validate changes, and ensure smooth application delivery. My role provides hands-on experience in software development, production support, automation, and working with enterprise systems.
 ---
 
 ## 🏆 Certifications
