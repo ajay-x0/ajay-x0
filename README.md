@@ -1,177 +1,143 @@
-# Hi, I'm Ajay Raghuwanshi 👋
 
-### Backend Engineer | Java & Spring Boot | AWS | AI/ML Engineering
+<div align="center">
 
-I’m a software engineer interested in building **backend systems, cloud applications, and AI-powered tools**. I work with **Java, Spring Boot, Python, REST APIs, SQL, and AWS**, and I enjoy learning through hands-on projects and Data Structures & Algorithms practice.
+# Hey there! I'm Ajay 👋
 
----
+### Software Engineer · Curious Mind · Lifelong Learner
 
-## 🚀 What I Work On
+*I enjoy turning ideas into code, exploring how things work, and building something new along the way.*
 
-* 🔹 Backend development with **Java and Spring Boot**
-* 🔹 REST APIs, microservices, and event-driven systems
-* 🔹 Cloud applications using **AWS**
-* 🔹 Database design, SQL, and data processing
-* 🔹 **Machine learning, LLMs, and RAG** applications
-* 🔹 Data Structures & Algorithms
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajay-x0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-raghuwanshi-79770724b/)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### ☕ A Little About Me
 
-### Languages
+I'm a software engineer based in Pune, India, currently working at **Tata Consultancy Services (TCS)**.
 
-![Java](https://img.shields.io/badge/Java-17%20%7C%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+My professional work involves application support, debugging, troubleshooting, and Python-based automation. Outside of work, I enjoy experimenting with new technologies and building personal projects to learn how different systems work together.
 
-### Backend
+I'm particularly interested in **backend engineering, distributed systems, cloud computing, and AI/ML**. I also enjoy solving Data Structures & Algorithms problems and exploring the engineering ideas behind everyday applications.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### AI & Data Engineering
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+For me, coding is a mix of curiosity, problem-solving, and the occasional late-night debugging session. ☕
 
 ---
 
-## 🚀 Featured Projects
+### 🌱 Things I'm Exploring
 
-### 🏦 Distributed Banking Ledger & Payment System
-
-**Java 21 · Spring Boot · PostgreSQL · Kafka · Redis · Docker Compose · GitHub Actions**
-
-A locally runnable, production-inspired **banking transfer simulator** built with six Spring Boot services. It models payment authorization, idempotent requests, account operations, and double-entry ledger entries across a distributed workflow.
-
-The payment flow uses a **durable saga** for coordination, while PostgreSQL transactions protect local ledger updates. An **outbox/inbox pattern**, Kafka events, and consumer deduplication handle asynchronous delivery. A Lite Docker Compose configuration was smoke-tested on an 8 GB Windows laptop.
-
-**Focus:** Distributed Systems · REST APIs · Transactional Integrity · Idempotency · Event-Driven Architecture
-
-→ **[View Project](https://github.com/ajay-x0/distributed-banking-ledger)**
-
-
-### 🥗 Digi-Diet — IoT Nutrition Tracking System
-
-**ESP32-CAM · Python · AWS IoT Core · AWS Lambda · DynamoDB · Amazon S3**
-
-An IoT nutrition tracking prototype that sends food information through **AWS IoT Core (MQTT)** and uses **Lambda and DynamoDB** to process nutritional data. It combines an ESP32-CAM prototype, cloud services, and a dashboard for viewing results.
-
-**Focus:** IoT · AWS Cloud · Serverless Architecture · Data Processing
-
-→ **[View Project](https://github.com/ajay-x0/digi-diet)**
-
-### 💬 Full-Stack Real-Time Chat Application
-
-**Java 17 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Vite**
-
-A full-stack chat application with a **Spring Boot backend and React frontend**, supporting user registration, login, and real-time messaging. REST APIs and **Spring Security with JWT** handle authenticated requests; **Spring Data JPA and MySQL** store application data.
-
-**Focus:** Full-Stack Development · REST APIs · Authentication · WebSockets · Database Design · React
-
-→ **[View Project](https://github.com/ajay-x0/blink-backend)**
-
-### 🏠 House Price Predictor
-
-**Python · scikit-learn · Pandas · Streamlit · Joblib**
-
-A machine learning project that predicts house prices from **synthetic housing data**. It compares **Linear Regression and Random Forest** using separate training, validation, and test sets, then saves the selected preprocessing and model pipeline for reuse.
-
-A **Streamlit interface** lets users enter property details and generate predictions in the browser. Results are a demonstration of the modeling workflow, not estimates validated against real property sales.
-
-**Focus:** Regression · Data Preparation · Model Evaluation · Reusable Pipelines · Interactive ML Apps
-
-→ **[View Project](https://github.com/ajay-x0/house-price-predictor)**
-
-### 🤖 Adaptive RAG — Agentic AI Chatbot
-
-**Python · FastAPI · LangGraph · Qdrant · MongoDB · OpenAI**
-
-A retrieval-augmented chatbot that routes queries between **document retrieval, general knowledge, and web search** workflows. It uses **LangGraph** for orchestration, **Qdrant** for vector search, **MongoDB** for session storage, and **FastAPI** to expose the backend.
-
-**Focus:** Agentic AI · RAG · LLM Applications · Vector Search · API Development
-
-→ **[View Project](https://github.com/ajay-x0/adaptive-rag-agent)**
-
-
+- Building backend applications and understanding distributed system design.
+- Exploring cloud-native development and AWS services.
+- Experimenting with machine learning, LLMs, and agentic AI.
+- Learning more about data engineering and scalable data pipelines.
+- Practicing Data Structures & Algorithms, one problem at a time.
 
 ---
 
-## 💼 Experience
+### 🛠️ My Developer Toolkit
 
-### Assistant System Engineer — Tata Consultancy Services (TCS)
+These are some of the languages, frameworks, and tools I use in my projects and continue to learn along the way.
 
-**Pune, India | January 2025 – Present**
+**Languages**
 
-I work as an Assistant System Engineer at Tata Consultancy Services (TCS), where I collaborate with cross-functional teams to support application development, maintain existing systems, and deliver reliable technical solutions.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-My day-to-day responsibilities involve troubleshooting application issues, analyzing logs, debugging code, implementing enhancements, and supporting backend services. I work with Java, Python, SQL, and related technologies to improve application functionality, automate repetitive tasks, and streamline development workflows.
+**Backend & Frontend**
 
-I also contribute to Python-based automation solutions, including tools that transform Excel specifications into CAPL scripts, helping reduce manual effort and improve operational efficiency.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-As part of an Agile team, I collaborate with developers, QA engineers, and stakeholders to understand requirements, resolve technical challenges, validate changes, and ensure smooth application delivery. My role provides hands-on experience in software development, production support, automation, and working with enterprise systems.
+**Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+**Databases & Messaging**
 
-## 🏆 Certifications
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-* **AWS Certified Developer – Associate**
-* **AWS Certified Solutions Architect – Associate**
-* **Claude Certified Developer – Foundations**
+**AI, ML & Data**
 
----
-
-## 🧩 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** and document my solutions on GitHub.
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
-
-→ **[View my LeetCode solutions](https://github.com/ajay-x0/leetcode-repo)**
-
----
-
-## 📫 Let's Connect
-
-I'm interested in **backend engineering, cloud, AI/ML systems, data engineering, and software projects**.
-
-<p align="left">
-  <a href="https://github.com/ajay-x0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajay-raghuwanshi-79770724b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Solving.</i>
-</p>
+### 🧪 Things I've Been Building
+
+A little collection of projects I've worked on while exploring backend development, cloud computing, and artificial intelligence.
+
+| Project | What's it about? |
+| :--- | :--- |
+| 🏦 [Distributed Banking Ledger](https://github.com/ajay-x0/distributed-banking-ledger) | A banking transfer simulator built with Spring Boot microservices, Kafka, Redis, and PostgreSQL. My exploration of distributed transactions, payment workflows, and event-driven systems. |
+| 🏠 [House Price Predictor](https://github.com/ajay-x0/house-price-predictor) | A machine learning application that explores regression models and house price prediction using synthetic housing data, with an interactive Streamlit interface. |
+| 🤖 [Adaptive RAG Chatbot](https://github.com/ajay-x0/adaptive-rag-agent) | An AI chatbot that combines document retrieval, LLMs, and agentic workflows using Python, FastAPI, LangGraph, and Qdrant. |
+| 💬 [Blink — Real-Time Chat](https://github.com/ajay-x0/blink-backend) | A full-stack messaging application built with Spring Boot, React, JWT authentication, and WebSockets. |
+| 🥗 [Digi-Diet](https://github.com/ajay-x0/digi-diet) | An IoT nutrition tracking prototype connecting an ESP32-CAM with AWS IoT Core, Lambda, and DynamoDB. |
+
+*Each project started with a question, an idea, or simply the curiosity to try something new.*
+
+---
+
+### 📚 A Little Problem-Solving Corner
+
+When I'm not building projects, you'll often find me practicing Data Structures & Algorithms.
+
+I enjoy breaking down problems, exploring different approaches, and understanding why one solution works better than another.
+
+Currently exploring:
+
+`Arrays` · `Hashing` · `Sliding Window` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
+
+📖 [Explore my LeetCode solutions](https://github.com/ajay-x0/leetcode-repo)
+
+---
+
+### 🎓 Certifications & Learning
+
+A few certifications I've earned along my learning journey:
+
+- ☁️ **AWS Certified Developer – Associate**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🤖 **Claude Certified Developer – Foundations**
+
+*Always learning, experimenting, and finding something new to explore.*
+
+---
+
+### 💌 Say Hello!
+
+I'm always happy to connect with fellow developers, exchange ideas, talk about interesting projects, or learn something new.
+
+Whether it's backend engineering, cloud, AI/ML, or just a good conversation about technology, feel free to reach out!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay-x0)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-raghuwanshi-79770724b/)
+
+<br>
+
+---
+
+*Thanks for stopping by! Have a great day. 🌻*
+
+**Keep learning. Keep building. Stay curious.**
+
+</div>
