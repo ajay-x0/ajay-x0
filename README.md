@@ -18,12 +18,6 @@
 
 I'm a software engineer based in Pune, India, currently working at **Tata Consultancy Services (TCS)**.
 
-My professional work involves application support, debugging, troubleshooting, and Python-based automation. Outside of work, I enjoy experimenting with new technologies and building personal projects to learn how different systems work together.
-
-I'm particularly interested in **backend engineering, distributed systems, cloud computing, and AI/ML**. I also enjoy solving Data Structures & Algorithms problems and exploring the engineering ideas behind everyday applications.
-
-For me, coding is a mix of curiosity, problem-solving, and the occasional late-night debugging session. ☕
-
 ---
 
 ### 🌱 Things I'm Exploring
