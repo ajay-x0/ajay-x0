@@ -14,20 +14,30 @@
 
 ---
 
-### ☕ A Little About Me
 
-I'm a software engineer based in Pune, India, currently working at **Tata Consultancy Services (TCS)**.
+### 👨‍💻 The Human Behind the Code
+
+Hey, I'm Ajay! A software engineer from Pune, India, currently working at **Tata Consultancy Services (TCS)**.
+
+By day, I troubleshoot applications, debug issues, and build automation tools. Beyond my day job, I'm usually experimenting with something new, exploring an unfamiliar technology, or figuring out how to turn an interesting idea into a working project.
+
+I'm fascinated by what happens behind the scenes of software — how millions of requests are handled, how services communicate, how data moves through systems, and how AI is changing the way we build applications.
+
+I like learning by building, breaking things, fixing them, and occasionally wondering why something works when it probably shouldn't. 😄
 
 ---
 
-### 🌱 Things I'm Exploring
+### 🧭 Where My Curiosity Takes Me
 
-- Building backend applications and understanding distributed system design.
-- Exploring cloud-native development and AWS services.
-- Experimenting with machine learning, LLMs, and agentic AI.
-- Learning more about data engineering and scalable data pipelines.
-- Practicing Data Structures & Algorithms, one problem at a time.
+| 🧩 | What keeps me curious |
+| :---: | :--- |
+| **`{ }`** | **Backend & Distributed Systems** — How do you build applications that remain reliable as they grow? |
+| ☁️ | **Cloud & DevOps** — How does code go from running on my laptop to running in the cloud? |
+| 🤖 | **AI & Machine Learning** — What happens when software starts learning, reasoning, and working with information? |
+| 🗄️ | **Data Engineering** — How do we turn raw data into something meaningful and useful? |
+| 🧠 | **DSA & Problem Solving** — Is there a simpler, cleaner, or more efficient way to solve this problem? |
 
+*The fun part? Every answer usually leads to another question.*
 ---
 
 ### 🛠️ My Developer Toolkit
