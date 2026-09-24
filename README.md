@@ -31,8 +31,7 @@ learning:   Distributed systems & data engineering
 practicing: DSA, algorithms & problem-solving
 curious:    How everything works under the hood
 ```
-
-**The common thread?** I like understanding how things work, experimenting with new ideas, and turning what I learn into something I can actually build.
+The common thread? I like understanding how things work, experimenting with new ideas, and turning what I learn into something I can actually build.
 ---
 
 ### 🛠️ My Developer Toolkit
