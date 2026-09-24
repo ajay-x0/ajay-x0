@@ -17,27 +17,22 @@
 
 ### 👨‍💻 The Human Behind the Code
 
-Hey, I'm Ajay! A software engineer from Pune, India, currently working at **Tata Consultancy Services (TCS)**.
-
-By day, I troubleshoot applications, debug issues, and build automation tools. Beyond my day job, I'm usually experimenting with something new, exploring an unfamiliar technology, or figuring out how to turn an interesting idea into a working project.
-
-I'm fascinated by what happens behind the scenes of software — how millions of requests are handled, how services communicate, how data moves through systems, and how AI is changing the way we build applications.
-
-I like learning by building, breaking things, fixing them, and occasionally wondering why something works when it probably shouldn't. 😄
+I'm a software engineer based in Pune, India, currently working at **Tata Consultancy Services (TCS)**.
 
 ---
 
-### 🧭 Where My Curiosity Takes Me
 
-| 🧩 | What keeps me curious |
-| :---: | :--- |
-| **`{ }`** | **Backend & Distributed Systems** — How do you build applications that remain reliable as they grow? |
-| ☁️ | **Cloud & DevOps** — How does code go from running on my laptop to running in the cloud? |
-| 🤖 | **AI & Machine Learning** — What happens when software starts learning, reasoning, and working with information? |
-| 🗄️ | **Data Engineering** — How do we turn raw data into something meaningful and useful? |
-| 🧠 | **DSA & Problem Solving** — Is there a simpler, cleaner, or more efficient way to solve this problem? |
+### ⚡ Currently in My Orbit
 
-*The fun part? Every answer usually leads to another question.*
+```yaml
+building:   Backend systems & cloud-native applications
+exploring:  AI agents, LLMs & intelligent workflows
+learning:   Distributed systems & data engineering
+practicing: DSA, algorithms & problem-solving
+curious:    How everything works under the hood
+```
+
+**The common thread?** I like understanding how things work, experimenting with new ideas, and turning what I learn into something I can actually build.
 ---
 
 ### 🛠️ My Developer Toolkit
